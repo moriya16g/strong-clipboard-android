@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">画面テキスト取得</string>
+    <string name="service_label">画面テキスト取得</string>
+    <string name="tile_label">画面テキスト</string>
+    <string name="service_description">ユーザー補助ボタンやクイック設定タイルを押したときだけ、表示中の画面からテキストを読み取り、番号付きの一覧として表示します。読み取ったテキストは端末の外へ送信しません。パスワード欄は読み取りません。</string>
+</resources>
